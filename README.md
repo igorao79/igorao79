@@ -28,7 +28,7 @@
 
 ## 📊 GitHub Stats:  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=твой_профиль&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorao79&layout=compact&theme=tokyonight)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=твой_профиль&show_icons=true&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=igorao79&show_icons=true&theme=tokyonight)  
 
