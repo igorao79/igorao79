@@ -34,6 +34,6 @@
 
 ## :)
 
-![Totoro GIF](https://media.giphy.com/media/jIqh3ym2s7GU/giphy.gif)  
+<img src="https://media1.tenor.com/m/tP02s3vF_sAAAAAd/sparkle-hsr.gif" width="200" height="200" style="border-radius: 50%;" />
 *Have a nice day! 🚀*
 
