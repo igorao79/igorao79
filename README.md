@@ -32,3 +32,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=igorao79&show_icons=true&theme=tokyonight)  
 
+## :)
+
+![Totoro GIF](https://media.giphy.com/media/jIqh3ym2s7GU/giphy.gif)  
+*Have a nice day! 🚀*
+
