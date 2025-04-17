@@ -38,7 +38,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## :)
 
 <img src="https://media1.tenor.com/m/tP02s3vF_sAAAAAd/sparkle-hsr.gif" width="200" height="200" style="border-radius: 50%;" />
 * Have a nice day! 🚀
