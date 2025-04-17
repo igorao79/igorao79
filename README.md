@@ -4,7 +4,7 @@
 - Ищу людей для совместных проектов.  
 - Открыт для предложений и интересных идей!  
 
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://t.me/igorao79">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
@@ -14,7 +14,7 @@
   <a href="https://github.com/igorao79">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-</p>
+</div>
 
 ---  
 
@@ -24,7 +24,7 @@
 - Looking for people to collaborate on projects.  
 - Open to opportunities and creative ideas!  
 
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://t.me/igorao79">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
@@ -34,7 +34,7 @@
   <a href="https://github.com/igorao79">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-</p>
+</div>
 
 ---
 
