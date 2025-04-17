@@ -4,7 +4,7 @@
 - Ищу людей для совместных проектов.  
 - Открыт для предложений и интересных идей!  
 
-<div style="display: flex; justify-content: center; gap: 10px; font-size: 0;">
+<div style="display: flex; flex-direction:column; center; gap: 10px; font-size: 0;">
   <a href="https://t.me/igorao79" style="text-decoration: none; font-size: initial;">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
