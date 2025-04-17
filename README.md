@@ -4,17 +4,10 @@
 - Ищу людей для совместных проектов.  
 - Открыт для предложений и интересных идей!  
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-  <a href="https://t.me/igorao79" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="mailto:igoraor79@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/igorao79" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</div>
+### 📫 Как связаться:  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/igorao79)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igoraor79@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/igorao79)
 
 ---  
 
@@ -24,17 +17,11 @@
 - Looking for people to collaborate on projects.  
 - Open to opportunities and creative ideas!  
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-  <a href="https://t.me/igorao79" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="mailto:igoraor79@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/igorao79" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</div>
+### 📫 Contact me:  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/igorao79)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igoraor79@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/igorao79)
+
 ---
 
 
