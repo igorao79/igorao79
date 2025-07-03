@@ -29,7 +29,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjMTU3MkI2IiBkPSJNNjQgMzJMMzQuMjUgMTQwLjc1IDE2IDQ4MGgxMjhsMTYtMzA0TDI0MCAzMkg2NHptMjY5Ljc1IDEwOC43NUwyNzIgNDgwbC0xNiAzMmgxNTJsMTYtMzA0TDUxMiAzMkgzMDRsLTE2IDMwNGgtMzJsLTE2LTMwNEgyNTZsMTYuMjUgMTA4Ljc1eiIvPjwvc3ZnPg==&logoColor=white)
 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
