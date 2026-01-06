@@ -1,8 +1,8 @@
-## 🇷🇺 Привет! Меня зовут Игорь  
-- Я начинающий разработчик, изучаю JavaScript и осваиваю React.  
-- Люблю писать код и учиться новому.  
-- Ищу людей для совместных проектов.  
-- Открыт для предложений и интересных идей!  
+## 🚀 Привет! Меня зовут Игорь
+- 💻 Начинающий разработчик, изучаю JavaScript и осваиваю React
+- 🔥 Люблю писать код и учиться новому
+- 🤝 Ищу людей для совместных проектов
+- 💡 Открыт для предложений и интересных идей!  
 
 ### 📫 Как связаться:  
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/igorao79)
@@ -11,11 +11,11 @@
 
 ---  
 
-## 🇬🇧 Hello! My name is Igor  
-- I am a junior developer learning JavaScript and getting into React.  
-- I love coding and always eager to learn new things.  
-- Looking for people to collaborate on projects.  
-- Open to opportunities and creative ideas!  
+## 🌟 Hello! My name is Igor
+- 💻 I am a junior developer learning JavaScript and getting into React
+- 🔥 I love coding and always eager to learn new things
+- 🤝 Looking for people to collaborate on projects
+- 💡 Open to opportunities and creative ideas!  
 
 ### 📫 Contact me:  
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/igorao79)
@@ -25,7 +25,7 @@
 ---
 
 
-# 💻 Tech Stack:
+# 🛠️ Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,10 +49,20 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=igorao79&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=igorao79&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 🔥 GitHub Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=igorao79&theme=radical)](https://git.io/streak-stats)
 
+# 📈 Activity Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=igorao79&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+# 👀 Profile Views
+![Profile views](https://komarev.com/ghpvc/?username=igorao79&color=blueviolet&style=flat-square)
+
+# 🏆 Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=igorao79&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+# 💫 Dynamic Badges
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58a6ff&size=30&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub+Profile!;I'm+a+Junior+Developer;Always+Learning+Something+New!)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=igorao79&icon=0&color=4)](https://visitcount.itsvg.in)
@@ -60,6 +70,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<img src="https://media1.tenor.com/m/tP02s3vF_sAAAAAd/sparkle-hsr.gif" width="200" height="200" style="border-radius: 50%;" />
+<img src="https://media.tenor.com/L-hO5GpmGMcAAAAi/kurukuru-herta.gif" width="200" height="200" style="border-radius: 50%;" />
 * Have a nice day! 🚀
 
