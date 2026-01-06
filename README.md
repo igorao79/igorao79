@@ -1,3 +1,10 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58a6ff&size=30&center=true&vCenter=true&width=1000&lines=Привет+мир!;Добро+пожаловать+в+мой+GitHub+профиль!;Я+младший+разработчик;Всегда+изучаю+что-то+новое!;Hello+World!;Welcome+to+my+GitHub+Profile!;I'm+a+Junior+Developer;Always+Learning+Something+New!)
+
+---
+[![](https://visitcount.itsvg.in/api?id=igorao79&icon=0&color=4)](https://visitcount.itsvg.in)
+
+
+
 ## 🚀 Привет! Меня зовут Игорь
 - 💻 Начинающий разработчик, изучаю JavaScript и осваиваю React
 - 🔥 Люблю писать код и учиться новому
@@ -49,23 +56,9 @@
 
 
 
-# 🔥 GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=igorao79&theme=radical)](https://git.io/streak-stats)
 
-# 📈 Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=igorao79&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# 👀 Profile Views
-![Profile views](https://komarev.com/ghpvc/?username=igorao79&color=blueviolet&style=flat-square)
 
-# 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=igorao79&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-# 💫 Dynamic Badges
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58a6ff&size=30&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub+Profile!;I'm+a+Junior+Developer;Always+Learning+Something+New!)
-
----
-[![](https://visitcount.itsvg.in/api?id=igorao79&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
