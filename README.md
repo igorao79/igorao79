@@ -21,10 +21,10 @@
 
 ## ![Profile](https://img.shields.io/badge/Profile-Igor-blue?style=for-the-badge&logo=user&logoColor=white) Hello! My name is Igor
 
-[Code](https://img.shields.io/badge/Code-Ambitious_Developer-green?style=for-the-badge&logo=javascript&logoColor=white)
-[Heart](https://img.shields.io/badge/Heart-Love_Coding-red?style=for-the-badge&logo=heart&logoColor=white) 
-[Team](https://img.shields.io/badge/Team-Looking_for_collaborators-purple?style=for-the-badge&logo=github&logoColor=white) 
-[Ideas](https://img.shields.io/badge/Ideas-Open_to_opportunities-orange?style=for-the-badge&logo=lightbulb&logoColor=white)
+![Code](https://img.shields.io/badge/Code-Ambitious_Developer-green?style=for-the-badge&logo=javascript&logoColor=white) 
+![Heart](https://img.shields.io/badge/Heart-Love_Coding-red?style=for-the-badge&logo=heart&logoColor=white)
+![Team](https://img.shields.io/badge/Team-Looking_for_collaborators-purple?style=for-the-badge&logo=github&logoColor=white) 
+![Ideas](https://img.shields.io/badge/Ideas-Open_to_opportunities-orange?style=for-the-badge&logo=lightbulb&logoColor=white)
 ### ![Contact](https://img.shields.io/badge/Contact-Get_in_touch-darkgreen?style=for-the-badge&logo=mail&logoColor=white)  
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/igorao79)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igoraor79@gmail.com)
@@ -64,19 +64,19 @@
 <!-- Мои проекты / My Projects -->
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Мое_портфолио-blue?style=for-the-badge&logo=github&logoColor=white)](https://igorao79.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Мое_портфолио-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/igorao79/portfolio)
 
 
-[![Pozvonimne](https://img.shields.io/badge/Pozvonimne-Звонки-purple?style=for-the-badge&logo=phone&logoColor=white)](https://pozvonimne.vercel.app/)
+[![Pozvonimne](https://img.shields.io/badge/Pozvonimne-Звонки-purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/igorao79/pozvonimne)
 
 
-[![Zvonochek](https://img.shields.io/badge/Zvonochek-Видеозвонки-red?style=for-the-badge&logo=video&logoColor=white)](https://zvonochek.vercel.app/)
+[![Zvonochek](https://img.shields.io/badge/Zvonochek-Видеозвонки-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/igorao79/zvonochek)
 
 
-[![SoulCycle](https://img.shields.io/badge/SoulCycle-МояКнига-cyan?style=for-the-badge&logo=meditation&logoColor=white)](https://igorao79.github.io/soulcycle/)
+[![SoulCycle](https://img.shields.io/badge/SoulCycle-МояКнига-cyan?style=for-the-badge&logo=github&logoColor=white)](https://github.com/igorao79/soulcycle)
 
 
-[![2025 Results](https://img.shields.io/badge/2025_Results-Статистика_года-orange?style=for-the-badge&logo=chart&logoColor=white)](https://igor2025-2026.vercel.app/)
+[![2025 Results](https://img.shields.io/badge/2025_Results-Статистика_года-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/igorao79/igor2025-2026)
 
 
 ---
