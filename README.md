@@ -1,8 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58a6ff&size=30&center=true&vCenter=true&width=1000&lines=Привет+мир!;Добро+пожаловать+в+мой+GitHub+профиль!;Я+амбициозный+разработчик;Всегда+изучаю+что-то+новое!;Hello+World!;Welcome+to+my+GitHub+Profile!;I'm+an+Ambitious+Developer;Always+Learning+Something+New!)
-
----
-[![](https://visitcount.itsvg.in/api?id=igorao79&icon=0&color=4)](https://visitcount.itsvg.in)
-
+![](https://github-readme-stats.vercel.app/api?username=igorao79&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=igorao79&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=igorao79&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## ![Profile](https://img.shields.io/badge/Profile-Игорь-blue?style=for-the-badge&logo=user&logoColor=white) Привет! Меня зовут Игорь
